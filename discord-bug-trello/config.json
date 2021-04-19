@@ -1,0 +1,7 @@
+{
+"prefix": "-",
+"botToken": "TOKEN",
+"bugReportsTrelloID" : "ID TRELLO BOARD",
+"applicationKey" : "PUBLIC KEY",
+"userToken": "TRELLO TOKEN",
+}
